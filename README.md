@@ -3,11 +3,11 @@
 
 
 
-  **Contact me-**
+  ##Contact me-
   
-  Willfowlerpro@gmail.com
+ **Email** Willfowlerpro@gmail.com
   
-  www.linkedin.com/in/cwfowler1
+  **Linkedin**www.linkedin.com/in/cwfowler1
 
 
 

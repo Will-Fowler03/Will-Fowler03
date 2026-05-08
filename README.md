@@ -1,4 +1,4 @@
-## Hello and Welcome! 👋
+# Hello and Welcome! 👋
   My name is Will Fowler. I attend Auburn University as a student of Mechanical Engineering where I am honing skills to compliment my intuition so that I can soon apply myself to the mechanical world of Engineering!
 
 

@@ -14,9 +14,9 @@
 
 # PROJECTS
 
-##University Projects
+## University Projects
 
-[Contact Mechanics]([https://github.com/your-username/your-repo-name](https://github.com/Will-Fowler03/In-Depth-Sim-of-Mechanics-of-Contact))
+[Contact Mechanics](https://github.com/Will-Fowler03/In-Depth-Sim-of-Mechanics-of-Contact)
 
 
   

@@ -6,9 +6,6 @@
   ## Contact me-
   
  **Email** Willfowlerpro@gmail.com
-  
-  **Linkedin**www.linkedin.com/in/cwfowler1
-
 
 
   

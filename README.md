@@ -18,6 +18,11 @@
 
 [Contact Mechanics](https://github.com/Will-Fowler03/In-Depth-Sim-of-Mechanics-of-Contact)
 
+[Electro-mechanical Tower Actuation System](https://github.com/Will-Fowler03/Electromechanical-Tower-Actuation-System.git)
+
+[DC Motor Build](https://github.com/Will-Fowler03/DC-Motor-Build.git)
+
+[Mechatronics Game](https://github.com/Will-Fowler03/Mechatronics-Game.git)
 
   
 <!--

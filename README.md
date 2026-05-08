@@ -1,5 +1,5 @@
 # Hello and Welcome! 👋
-  My name is Will Fowler. I attend Auburn University as a student of Mechanical Engineering where I am honing skills to compliment my intuition so that I can soon apply myself to the mechanical world of Engineering!
+  My name is Will Fowler, and I am a mechanical engineering student at Auburn University. I am developing technical skills in design, analysis, manufacturing, and electromechanical systems to complement my lifelong mechanical intuition and prepare for a career in engineering.
 
 ## About me
 

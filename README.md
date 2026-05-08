@@ -1,8 +1,9 @@
 # Hello and Welcome! 👋
   My name is Will Fowler. I attend Auburn University as a student of Mechanical Engineering where I am honing skills to compliment my intuition so that I can soon apply myself to the mechanical world of Engineering!
 
+## About me
 
-
+I am a born-and-raised Alabamian from south of Montgomery. I grew up watching my father, an engineer, repair appliances, solve practical problems, and build useful things around the house. By adolescence, I had learned my way around hand tools, power tools, and eventually manual machining equipment such as the mill and lathe. Now, as I near graduation in mechanical engineering from Auburn University, I am working to pair that lifelong mechanical intuition with formal engineering analysis, CAD, design, and manufacturing skills. I am proud to be a 3rd generation Mech E and I am thrilled at the prospect of entering the workforce. 
   ## Contact me-
   
  **Email** Willfowlerpro@gmail.com

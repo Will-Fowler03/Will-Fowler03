@@ -32,9 +32,9 @@
 
 ## Personal Projects
 
-[Brown's Gas Generator](https://github.com/Will-Fowler03/Hydrogen-Generator.git)
+[Brown's Gas Generator](https://github.com/Will-Fowler03/Hydrogen-Generator.git) - In Progress
 
-[Jeep CJ5 Rebuild](https://github.com/Will-Fowler03/Jeep-Rebuild.git)
+[Jeep CJ5 Rebuild](https://github.com/Will-Fowler03/Jeep-Rebuild.git) - In Progress
 
 [Blacksmithing](https://github.com/Will-Fowler03/Blacksmith.git)
 
